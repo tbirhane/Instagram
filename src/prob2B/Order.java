@@ -1,6 +1,4 @@
-package prob2B;
-
-import java.util.List;
+package src.prob2B;
 
 public class Order {
 	private int orderNumber;
